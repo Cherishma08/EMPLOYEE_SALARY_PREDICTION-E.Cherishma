@@ -1,0 +1,521 @@
+experience_yrs,age,gender,education,role,city_tier,industry,certifications,salary
+5,30,Female,MSc,Junior Analyst,Tier-2,Tech,5,75000
+11,35,Female,BSc,ML Engineer,Tier-3,Retail,4,92000
+7,30,Male,BSc,Junior Analyst,Tier-1,,4,86000
+8,30,Female,MSc,Senior Data Engineer,Tier-2,Healthcare,5,124000
+7,26,Female,MSc,Junior Analyst,Tier-3,Retail,1,64000
+5,26,Female,BSc,Data Analyst,Tier-1,Finance,1,69000
+8,33,Other,BSc,Data Scientist,Tier-3,Tech,2,79000
+7,29,Female,BSc,Junior Analyst,Tier-2,Tech,5,77000
+18,40,Male,BSc,Data Analyst,Tier-1,Finance,0,146000
+20,40,Male,BSc,Junior Analyst,Tier-1,Finance,3,153000
+9,34,Male,MSc,Data Analyst,Tier-1,Finance,4,111000
+6,31,Other,BSc,Data Scientist,Tier-1,Healthcare,5,93000
+13,33,Female,BSc,Lead Data Scientist,Tier-1,Finance,1,139000
+0,25,Male,BSc,Data Scientist,Tier-2,Retail,0,44000
+13,37,Other,BSc,Data Analyst,Tier-1,Retail,3,107000
+2,23,Male,MSc,Junior Analyst,Tier-1,Healthcare,0,55000
+13,33,Female,MSc,Senior Data Engineer,Tier-2,Retail,,142000
+20,43,Other,BSc,Junior Analyst,Tier-2,Retail,0,131000
+11,31,Female,BSc,Data Analyst,Tier-1,Finance,1,102000
+1,23,Male,BSc,Data Scientist,Tier-3,Retail,0,37000
+6,28,Male,BSc,Data Analyst,Tier-1,Finance,2,80000
+3,25,Male,BSc,Lead Data Scientist,Tier-3,Retail,1,72000
+12,35,Male,BSc,Junior Analyst,Tier-2,Retail,1,93000
+18,37,Female,PhD,Junior Analyst,Tier-2,Retail,5,147000
+19,40,Male,MSc,Data Analyst,Tier-1,Tech,5,160000
+13,36,Male,MSc,Data Analyst,Tier-2,Tech,5,114000
+12,37,Other,BSc,Senior Data Engineer,Tier-2,Healthcare,4,133000
+3,26,Male,MSc,,Tier-2,Finance,4,97000
+4,29,Male,,ML Engineer,Tier-2,Healthcare,4,81000
+14,33,Female,BSc,Data Analyst,Tier-2,Tech,1,99000
+2,22,Male,BSc,Senior Data Engineer,Tier-2,Retail,2,72000
+17,36,Other,BSc,Data Scientist,Tier-1,Healthcare,3,143000
+9,31,Female,PhD,Data Scientist,Tier-3,Tech,0,106000
+16,37,Female,MSc,Lead Data Scientist,Tier-1,Retail,4,169000
+17,39,Male,BSc,Data Scientist,Tier-1,Tech,3,150000
+1,26,Male,MSc,Data Scientist,Tier-2,,3,67000
+6,29,Male,BSc,Data Analyst,Tier-1,Finance,3,77000
+14,36,Female,BSc,Senior Data Engineer,Tier-1,Tech,0,139000
+3,23,Male,BSc,Junior Analyst,Tier-2,Retail,5,52000
+11,34,Male,BSc,Senior Data Engineer,Tier-2,Finance,3,125000
+0,21,Female,BSc,Lead Data Scientist,Tier-2,Healthcare,3,70000
+4,23,Male,MSc,Data Analyst,Tier-3,Tech,3,61000
+1,23,Male,BSc,Junior Analyst,Tier-3,Retail,4,34000
+16,37,Female,BSc,Junior Analyst,Tier-2,Finance,5,122000
+9,31,Other,MSc,Senior Data Engineer,Tier-2,Retail,2,130000
+14,37,Male,MSc,ML Engineer,Tier-3,Finance,0,121000
+7,30,Female,BSc,Data Analyst,Tier-2,Finance,1,70000
+18,40,Female,BSc,Senior Data Engineer,Tier-1,Tech,0,155000
+6,31,Female,BSc,ML Engineer,Tier-2,Finance,3,89000
+20,39,Other,PhD,Junior Analyst,Tier-3,Finance,3,167000
+14,35,Female,MSc,Data Analyst,Tier-2,Retail,0,100000
+20,43,Male,BSc,Lead Data Scientist,Tier-3,Tech,0,159000
+13,38,Female,BSc,Lead Data Scientist,Tier-1,Healthcare,2,135000
+7,32,Female,BSc,Data Analyst,Tier-2,Retail,2,75000
+6,29,Female,PhD,Junior Analyst,,Finance,5,81000
+0,25,Male,BSc,Lead Data Scientist,Tier-2,Healthcare,4,66000
+4,25,Female,MSc,Lead Data Scientist,Tier-2,Retail,1,94000
+15,35,Female,MSc,Senior Data Engineer,Tier-1,Retail,3,161000
+9,29,Male,BSc,Data Analyst,Tier-1,Retail,3,82000
+10,32,Female,PhD,Data Analyst,Tier-1,Finance,4,128000
+12,31,Male,BSc,Senior Data Engineer,Tier-2,Retail,4,118000
+0,22,Female,MSc,ML Engineer,Tier-2,Finance,5,70000
+10,32,Male,BSc,Lead Data Scientist,Tier-1,Healthcare,1,117000
+15,35,Female,MSc,Junior Analyst,Tier-2,Healthcare,4,113000
+2,23,Female,MSc,Data Scientist,Tier-2,Retail,1,61000
+5,24,Female,MSc,Junior Analyst,Tier-2,Finance,5,86000
+7,28,Male,BSc,Senior Data Engineer,Tier-2,Tech,0,98000
+14,38,Male,MSc,Senior Data Engineer,Tier-2,Healthcare,4,144000
+6,29,Female,BSc,Data Scientist,Tier-2,Retail,3,81000
+9,29,Female,BSc,Data Analyst,Tier-1,Finance,5,95000
+16,35,Female,BSc,Lead Data Scientist,Tier-1,Retail,2,150000
+14,35,Male,MSc,Lead Data Scientist,Tier-1,Healthcare,4,154000
+2,25,Other,BSc,Junior Analyst,Tier-1,Retail,1,42000
+9,33,Male,BSc,Data Scientist,Tier-2,Retail,1,94000
+20,39,Other,MSc,Data Analyst,Tier-2,Retail,5,154000
+12,36,Male,PhD,Junior Analyst,Tier-2,Retail,4,108000
+15,37,Female,BSc,Senior Data Engineer,Tier-2,Finance,2,142000
+11,30,Male,BSc,Junior Analyst,Tier-1,Tech,1,100000
+2,24,Female,PhD,Senior Data Engineer,Tier-1,Finance,5,120000
+14,37,Male,BSc,Data Scientist,Tier-3,Finance,2,123000
+4,26,Female,MSc,Junior Analyst,Tier-2,Tech,1,56000
+0,21,Male,BSc,Senior Data Engineer,Tier-1,Finance,0,70000
+15,38,Female,BSc,ML Engineer,Tier-1,Healthcare,2,131000
+18,38,Male,BSc,Lead Data Scientist,Tier-1,Healthcare,0,154000
+0,24,Female,MSc,Lead Data Scientist,Tier-3,Finance,4,78000
+1,25,Female,BSc,ML Engineer,Tier-1,Tech,4,63000
+20,44,Female,BSc,Data Scientist,Tier-1,Retail,2,153000
+10,32,Other,BSc,Data Scientist,Tier-3,Healthcare,2,98000
+17,39,Male,MSc,Senior Data Engineer,Tier-2,Retail,3,155000
+13,34,Other,BSc,Junior Analyst,Tier-1,Healthcare,3,110000
+12,31,Female,BSc,Lead Data Scientist,Tier-2,Finance,2,126000
+2,24,Female,PhD,Lead Data Scientist,Tier-2,Tech,1,89000
+9,31,Female,BSc,Lead Data Scientist,Tier-2,Tech,1,109000
+1,21,Female,MSc,Senior Data Engineer,Tier-1,Healthcare,3,86000
+9,31,Male,BSc,Lead Data Scientist,Tier-3,Finance,1,117000
+5,27,Female,MSc,Senior Data Engineer,Tier-1,Healthcare,,110000
+4,23,Male,PhD,ML Engineer,Tier-1,Retail,3,102000
+17,37,Other,MSc,Data Scientist,Tier-2,Healthcare,5,150000
+1,26,Female,BSc,Data Analyst,Tier-1,Retail,3,50000
+20,41,Male,PhD,Data Analyst,Tier-1,Tech,2,161000
+3,23,Female,BSc,Senior Data Engineer,Tier-1,Healthcare,3,92000
+8,33,Male,BSc,Senior Data Engineer,Tier-1,Tech,2,115000
+18,37,Female,PhD,Junior Analyst,Tier-1,Healthcare,3,164000
+4,24,Male,MSc,Senior Data Engineer,Tier-2,Retail,2,95000
+11,33,Female,BSc,Data Scientist,Tier-2,Tech,0,104000
+18,43,Female,BSc,Senior Data Engineer,Tier-1,Healthcare,0,155000
+19,40,Male,MSc,Lead Data Scientist,Tier-1,Tech,5,185000
+5,29,Male,PhD,Senior Data Engineer,Tier-2,Healthcare,2,104000
+7,32,Female,MSc,Senior Data Engineer,Tier-2,Finance,0,113000
+5,30,Male,BSc,Data Analyst,Tier-2,Healthcare,2,59000
+8,28,Female,MSc,Senior Data Engineer,Tier-1,Tech,2,122000
+20,40,Female,BSc,Lead Data Scientist,Tier-1,Retail,1,171000
+11,32,Female,BSc,Data Scientist,Tier-1,Retail,0,105000
+10,33,Female,MSc,Lead Data Scientist,Tier-1,Healthcare,1,139000
+18,38,Other,PhD,Data Scientist,Tier-3,Finance,1,161000
+14,38,Male,BSc,Senior Data Engineer,Tier-2,Healthcare,1,132000
+0,24,Female,BSc,Data Analyst,Tier-1,Finance,4,49000
+19,41,Female,BSc,Data Analyst,Tier-2,Tech,3,129000
+1,23,Male,PhD,ML Engineer,Tier-2,Healthcare,2,74000
+5,26,Female,MSc,Senior Data Engineer,Tier-2,Healthcare,1,98000
+0,21,Male,BSc,Junior Analyst,Tier-1,Retail,3,44000
+4,28,Male,BSc,ML Engineer,Tier-2,Healthcare,3,73000
+20,44,Female,BSc,ML Engineer,Tier-1,Retail,5,174000
+1,21,Female,BSc,ML Engineer,Tier-3,Finance,2,52000
+10,29,Female,BSc,Data Analyst,Tier-3,Healthcare,1,82000
+1,22,Male,BSc,Lead Data Scientist,Tier-1,Finance,5,86000
+1,21,Male,BSc,Data Scientist,Tier-3,Finance,0,56000
+10,34,Female,BSc,Data Scientist,Tier-1,Tech,2,109000
+10,32,Female,MSc,ML Engineer,Tier-2,Finance,1,121000
+18,40,Female,BSc,ML Engineer,Tier-2,Retail,5,141000
+0,23,Other,MSc,Lead Data Scientist,Tier-1,Finance,3,90000
+11,32,Male,BSc,ML Engineer,Tier-3,Healthcare,0,93000
+16,35,Female,MSc,Lead Data Scientist,Tier-1,Healthcare,0,168000
+4,26,Male,BSc,Data Analyst,Tier-3,Finance,2,51000
+19,42,Male,PhD,Data Analyst,Tier-2,Healthcare,1,156000
+10,32,Female,PhD,Data Scientist,Tier-1,Retail,3,120000
+10,34,Male,BSc,ML Engineer,Tier-2,Finance,3,93000
+12,37,Male,BSc,Lead Data Scientist,Tier-1,Healthcare,5,133000
+10,34,Female,BSc,Data Scientist,Tier-2,Healthcare,0,99000
+11,31,Male,BSc,Data Scientist,Tier-3,Finance,5,111000
+18,42,Female,BSc,Senior Data Engineer,Tier-1,Healthcare,2,172000
+14,38,Female,BSc,Junior Analyst,Tier-3,Finance,5,110000
+9,29,Female,MSc,Lead Data Scientist,Tier-1,Healthcare,4,122000
+19,41,Male,BSc,Data Scientist,Tier-2,Finance,4,157000
+20,40,Male,MSc,ML Engineer,Tier-2,Finance,4,170000
+7,31,Male,MSc,Data Scientist,Tier-1,Finance,0,110000
+5,24,Female,BSc,Data Scientist,Tier-2,Healthcare,5,82000
+0,22,Male,BSc,ML Engineer,Tier-3,Healthcare,5,44000
+20,40,Male,BSc,Lead Data Scientist,Tier-2,Healthcare,2,160000
+6,29,Male,BSc,Data Scientist,Tier-1,Healthcare,3,87000
+0,22,Other,BSc,Senior Data Engineer,Tier-1,Healthcare,4,76000
+12,31,Female,BSc,Junior Analyst,Tier-1,Healthcare,4,102000
+13,38,Female,BSc,Senior Data Engineer,Tier-2,Retail,4,131000
+13,33,Female,BSc,Junior Analyst,Tier-3,Finance,2,106000
+4,26,Female,BSc,Senior Data Engineer,Tier-2,Retail,2,73000
+1,21,Male,BSc,Data Analyst,Tier-1,Tech,2,50000
+6,25,Female,BSc,Junior Analyst,Tier-1,Finance,2,73000
+16,39,Female,MSc,Lead Data Scientist,Tier-2,Tech,5,162000
+17,41,Other,BSc,Lead Data Scientist,Tier-1,Retail,5,161000
+18,38,Female,BSc,Data Analyst,Tier-2,Retail,2,120000
+10,32,Male,MSc,Data Analyst,Tier-3,Finance,1,93000
+5,29,Female,MSc,Lead Data Scientist,Tier-2,Finance,4,100000
+20,43,Female,PhD,Data Analyst,Tier-3,Tech,5,155000
+13,35,Male,BSc,ML Engineer,Tier-1,Tech,1,121000
+5,28,Female,BSc,Junior Analyst,Tier-2,Healthcare,3,56000
+2,22,Male,MSc,Senior Data Engineer,Tier-2,Retail,4,82000
+7,31,Other,MSc,Senior Data Engineer,Tier-1,Tech,1,119000
+14,38,Female,BSc,ML Engineer,Tier-3,Tech,5,120000
+5,28,Female,BSc,ML Engineer,Tier-2,Finance,1,78000
+14,36,Male,PhD,ML Engineer,Tier-1,Healthcare,4,155000
+5,25,Male,PhD,Lead Data Scientist,Tier-1,Tech,3,126000
+5,27,Male,BSc,ML Engineer,Tier-3,Tech,0,67000
+0,21,Male,BSc,Data Scientist,Tier-2,Finance,5,73000
+3,25,Female,BSc,Data Scientist,Tier-2,Retail,4,62000
+12,35,Other,BSc,Data Scientist,Tier-2,Retail,0,107000
+3,23,Female,PhD,ML Engineer,Tier-1,Retail,5,91000
+12,35,Male,BSc,Lead Data Scientist,Tier-1,Finance,3,145000
+2,21,Female,BSc,ML Engineer,Tier-2,Retail,3,55000
+20,43,Male,BSc,ML Engineer,Tier-1,Tech,3,169000
+18,42,Female,MSc,Senior Data Engineer,Tier-2,Healthcare,1,167000
+6,27,Male,BSc,ML Engineer,Tier-3,Tech,1,63000
+9,32,Female,BSc,Senior Data Engineer,Tier-3,Finance,5,109000
+15,34,Male,BSc,Senior Data Engineer,Tier-2,Healthcare,0,130000
+3,25,Male,MSc,Data Analyst,Tier-2,Healthcare,2,68000
+7,32,Male,BSc,ML Engineer,Tier-2,Finance,5,97000
+3,25,Male,BSc,Lead Data Scientist,Tier-2,Finance,4,88000
+13,37,Male,BSc,ML Engineer,Tier-3,Finance,1,110000
+11,36,Female,MSc,Senior Data Engineer,Tier-2,Tech,2,132000
+2,22,Female,BSc,Data Scientist,Tier-2,Tech,4,58000
+10,35,Male,BSc,Senior Data Engineer,Tier-2,Retail,3,113000
+10,34,Female,BSc,Data Scientist,Tier-1,Retail,3,109000
+17,42,Female,MSc,Senior Data Engineer,Tier-2,Healthcare,5,169000
+19,42,Male,BSc,Junior Analyst,Tier-3,Tech,1,122000
+3,26,Female,BSc,Junior Analyst,Tier-2,Retail,2,44000
+12,37,Female,BSc,Junior Analyst,Tier-1,,4,112000
+5,24,Male,BSc,Senior Data Engineer,Tier-2,Tech,1,93000
+3,22,Female,BSc,Senior Data Engineer,Tier-1,Retail,5,92000
+6,29,Male,MSc,Senior Data Engineer,Tier-1,Retail,5,117000
+19,43,Male,BSc,Senior Data Engineer,Tier-2,Finance,3,163000
+1,21,Female,BSc,Data Analyst,Tier-2,Finance,4,57000
+6,28,Male,BSc,ML Engineer,,Retail,5,92000
+19,42,Male,MSc,Data Analyst,Tier-1,Retail,1,146000
+10,29,Female,MSc,Lead Data Scientist,Tier-1,Retail,1,122000
+12,35,Female,BSc,Lead Data Scientist,Tier-1,Finance,3,140000
+15,40,Female,BSc,Lead Data Scientist,Tier-1,Finance,3,153000
+16,38,Female,MSc,Data Scientist,Tier-1,Healthcare,0,143000
+18,42,Male,BSc,Data Scientist,Tier-1,Tech,2,151000
+7,32,Female,BSc,ML Engineer,Tier-2,Healthcare,1,82000
+6,29,Female,BSc,Junior Analyst,Tier-3,Tech,1,67000
+9,31,Male,BSc,Junior Analyst,Tier-2,Healthcare,2,89000
+15,38,Male,PhD,Lead Data Scientist,Tier-1,Tech,1,162000
+5,25,Male,BSc,ML Engineer,Tier-2,Finance,2,76000
+14,39,Female,PhD,ML Engineer,Tier-2,Healthcare,1,138000
+16,39,Female,BSc,Junior Analyst,Tier-2,Retail,5,120000
+3,27,Female,MSc,Senior Data Engineer,Tier-2,Retail,5,84000
+4,29,Female,MSc,Junior Analyst,Tier-3,Finance,1,60000
+19,39,Female,BSc,Lead Data Scientist,Tier-1,Finance,5,183000
+6,25,Other,BSc,Lead Data Scientist,Tier-3,Tech,4,94000
+10,33,Male,BSc,Data Scientist,Tier-2,Retail,5,96000
+12,35,Female,,Lead Data Scientist,Tier-1,Retail,3,144000
+7,27,Male,MSc,ML Engineer,Tier-2,Finance,0,92000
+3,25,Male,BSc,Lead Data Scientist,Tier-3,Finance,3,80000
+9,29,Male,BSc,Junior Analyst,Tier-3,Healthcare,3,86000
+20,40,Female,BSc,Junior Analyst,Tier-3,Retail,2,124000
+15,36,Female,MSc,ML Engineer,Tier-1,Retail,2,144000
+20,40,Female,MSc,ML Engineer,Tier-1,Tech,5,175000
+8,31,Female,BSc,Lead Data Scientist,Tier-2,Finance,3,118000
+1,23,Female,BSc,Junior Analyst,Tier-1,Healthcare,4,61000
+7,29,Male,BSc,ML Engineer,Tier-2,Healthcare,5,90000
+14,37,Female,BSc,Senior Data Engineer,Tier-1,Retail,3,144000
+0,25,Male,MSc,Data Scientist,Tier-1,Retail,0,60000
+15,36,Other,BSc,Data Scientist,Tier-2,Tech,5,135000
+1,21,Male,BSc,Junior Analyst,Tier-2,Finance,5,48000
+14,37,Female,BSc,Senior Data Engineer,Tier-3,Healthcare,0,130000
+19,43,Female,BSc,Data Scientist,Tier-1,Finance,2,162000
+4,29,Female,MSc,Data Analyst,Tier-1,Tech,4,76000
+5,28,Female,BSc,Data Scientist,Tier-2,Retail,4,75000
+10,30,Female,BSc,ML Engineer,Tier-2,Healthcare,5,110000
+5,25,Male,BSc,ML Engineer,Tier-1,Finance,1,86000
+7,30,Female,MSc,Junior Analyst,Tier-1,Retail,5,95000
+2,21,Female,BSc,Lead Data Scientist,Tier-1,Tech,3,83000
+17,38,Male,MSc,Junior Analyst,Tier-2,Healthcare,1,125000
+19,40,Female,BSc,Lead Data Scientist,Tier-2,Healthcare,1,150000
+10,34,Male,MSc,Lead Data Scientist,Tier-1,Healthcare,5,134000
+12,37,Female,MSc,Senior Data Engineer,Tier-1,Retail,0,142000
+14,33,Female,PhD,Junior Analyst,Tier-2,Finance,4,136000
+13,36,Male,BSc,Lead Data Scientist,Tier-2,Tech,4,132000
+19,39,Male,BSc,Lead Data Scientist,Tier-1,Retail,5,173000
+18,37,Female,PhD,Data Analyst,Tier-1,Tech,4,163000
+19,38,Male,BSc,Junior Analyst,Tier-1,Tech,1,144000
+17,42,Male,BSc,Data Analyst,Tier-1,Tech,2,119000
+3,28,Other,MSc,Junior Analyst,Tier-2,Retail,0,53000
+,32,Female,MSc,Data Scientist,Tier-1,Retail,4,120000
+16,38,Male,,ML Engineer,Tier-1,Finance,0,138000
+14,36,Male,BSc,ML Engineer,Tier-2,Finance,4,130000
+7,27,Male,PhD,Lead Data Scientist,Tier-1,Tech,4,140000
+5,25,Male,BSc,Senior Data Engineer,Tier-1,Healthcare,1,94000
+19,42,Male,BSc,Data Analyst,Tier-1,Finance,2,139000
+1,22,Female,BSc,Data Scientist,Tier-2,Retail,4,56000
+4,29,Female,PhD,Data Scientist,Tier-1,Retail,0,89000
+1,24,Male,PhD,Data Analyst,Tier-2,Retail,3,57000
+6,26,Female,BSc,Data Scientist,Tier-1,Retail,0,81000
+2,25,Male,BSc,Senior Data Engineer,Tier-2,Finance,0,68000
+15,37,Female,BSc,Senior Data Engineer,Tier-2,Finance,3,147000
+12,31,Female,BSc,Data Scientist,Tier-1,Finance,5,133000
+19,38,Female,BSc,ML Engineer,Tier-3,Tech,2,135000
+5,30,Male,BSc,Lead Data Scientist,Tier-1,Finance,5,112000
+19,40,Other,MSc,Senior Data Engineer,Tier-1,Finance,4,178000
+18,37,Female,BSc,Senior Data Engineer,Tier-1,Healthcare,0,161000
+10,31,Male,PhD,Senior Data Engineer,Tier-2,Finance,0,139000
+17,41,Male,BSc,Lead Data Scientist,Tier-2,Finance,2,155000
+10,29,Female,BSc,Data Scientist,Tier-3,Tech,2,94000
+2,27,Male,MSc,Junior Analyst,Tier-1,Retail,2,66000
+0,21,Female,BSc,Junior Analyst,Tier-2,Tech,0,33000
+10,34,Male,MSc,Data Scientist,Tier-3,Tech,2,108000
+12,36,,MSc,Data Analyst,Tier-1,Finance,1,130000
+4,28,Female,BSc,Lead Data Scientist,Tier-2,Finance,,83000
+3,26,Female,BSc,Data Analyst,Tier-2,Retail,2,51000
+11,36,Female,BSc,ML Engineer,Tier-1,Tech,3,119000
+5,24,Female,BSc,Senior Data Engineer,Tier-2,Finance,4,98000
+15,37,Female,BSc,Data Analyst,Tier-3,Healthcare,5,101000
+,21,Female,BSc,Data Analyst,Tier-1,Finance,2,55000
+4,23,Female,MSc,Junior Analyst,Tier-1,Retail,3,72000
+5,28,Other,MSc,ML Engineer,Tier-3,Finance,1,85000
+18,41,Male,BSc,Lead Data Scientist,Tier-1,Retail,0,156000
+3,26,Male,PhD,Senior Data Engineer,Tier-3,Retail,2,92000
+8,28,Male,BSc,Senior Data Engineer,Tier-1,Healthcare,2,111000
+11,30,Male,BSc,Senior Data Engineer,Tier-2,Finance,1,131000
+4,29,Male,BSc,Data Analyst,Tier-1,Tech,2,61000
+14,35,Female,MSc,Data Scientist,Tier-1,Tech,3,136000
+4,25,Male,BSc,Senior Data Engineer,Tier-1,Finance,2,100000
+2,27,Male,BSc,Data Scientist,Tier-1,,5,66000
+10,35,Male,MSc,Data Analyst,Tier-2,Finance,3,107000
+9,28,Male,BSc,Data Analyst,Tier-2,Healthcare,3,80000
+7,32,Male,MSc,Data Scientist,Tier-1,Finance,1,96000
+13,34,Female,BSc,Lead Data Scientist,Tier-3,Tech,0,116000
+20,44,Male,BSc,Data Analyst,Tier-2,Finance,1,143000
+7,29,Female,BSc,Senior Data Engineer,Tier-2,Healthcare,0,90000
+7,31,Male,BSc,Senior Data Engineer,Tier-3,Retail,3,96000
+17,38,Female,MSc,Data Analyst,Tier-1,Finance,0,141000
+1,21,Other,BSc,Senior Data Engineer,Tier-1,Tech,4,78000
+19,38,Female,BSc,Data Analyst,Tier-2,Retail,3,127000
+16,40,Male,BSc,Data Scientist,Tier-3,Tech,4,120000
+12,32,Male,MSc,Data Analyst,Tier-2,Finance,0,97000
+8,28,Female,PhD,Lead Data Scientist,Tier-2,Healthcare,4,128000
+14,37,Male,MSc,Junior Analyst,Tier-2,Tech,5,125000
+5,28,Female,BSc,Lead Data Scientist,Tier-2,Finance,0,96000
+19,38,Male,PhD,Lead Data Scientist,Tier-3,Tech,1,173000
+12,35,Female,BSc,Data Analyst,Tier-2,Finance,5,103000
+3,25,Male,MSc,Data Analyst,Tier-2,Finance,1,60000
+3,22,Female,BSc,Lead Data Scientist,Tier-1,Finance,1,97000
+14,39,Male,BSc,ML Engineer,Tier-2,Retail,2,109000
+8,33,Female,PhD,ML Engineer,Tier-2,Retail,2,101000
+12,36,Other,MSc,Data Analyst,Tier-1,Finance,0,116000
+20,44,Other,MSc,Senior Data Engineer,Tier-3,Healthcare,0,167000
+9,34,Female,BSc,ML Engineer,Tier-1,Finance,2,109000
+0,21,Male,BSc,Junior Analyst,Tier-2,Tech,5,40000
+10,32,Female,MSc,Senior Data Engineer,Tier-2,Healthcare,0,119000
+5,26,Male,PhD,Lead Data Scientist,Tier-2,Tech,2,115000
+17,37,Male,BSc,Data Analyst,Tier-1,Healthcare,1,123000
+19,40,Male,MSc,Lead Data Scientist,Tier-3,Tech,4,172000
+18,42,Female,BSc,Junior Analyst,Tier-2,Healthcare,2,121000
+15,40,Male,MSc,ML Engineer,Tier-3,Retail,2,120000
+17,37,Female,MSc,Data Analyst,Tier-3,Retail,4,124000
+14,34,Male,BSc,ML Engineer,Tier-2,Tech,2,117000
+17,37,Male,BSc,ML Engineer,Tier-2,Healthcare,5,136000
+9,34,Female,BSc,Lead Data Scientist,Tier-3,Tech,,94000
+12,34,Female,BSc,Senior Data Engineer,Tier-2,Healthcare,1,118000
+20,41,Male,BSc,Lead Data Scientist,Tier-2,Finance,0,158000
+4,28,Female,MSc,Junior Analyst,Tier-1,Healthcare,4,77000
+5,25,Female,MSc,Senior Data Engineer,Tier-3,Healthcare,1,90000
+12,31,Female,MSc,ML Engineer,Tier-2,Retail,5,124000
+10,32,Male,PhD,Junior Analyst,Tier-1,Retail,2,105000
+14,33,Female,BSc,Data Analyst,Tier-1,Finance,2,115000
+9,31,Male,BSc,Data Scientist,Tier-2,Tech,0,85000
+11,35,Female,BSc,Data Analyst,Tier-3,Retail,3,90000
+13,37,Female,BSc,ML Engineer,Tier-1,Retail,5,128000
+6,28,Other,BSc,Lead Data Scientist,Tier-2,Tech,1,93000
+0,21,Female,BSc,Data Analyst,Tier-2,Healthcare,1,30000
+1,21,Male,PhD,ML Engineer,Tier-1,Finance,0,89000
+1,23,Male,MSc,Data Scientist,Tier-2,Healthcare,4,71000
+11,31,Male,MSc,Data Scientist,Tier-1,Healthcare,4,121000
+18,38,Female,MSc,Lead Data Scientist,Tier-2,Finance,4,168000
+10,34,Female,BSc,Data Analyst,Tier-2,Retail,3,93000
+6,30,Male,BSc,Data Scientist,Tier-1,Finance,4,96000
+10,35,Male,BSc,Data Analyst,Tier-1,Tech,5,110000
+9,33,Female,BSc,Lead Data Scientist,,Retail,0,107000
+6,25,Male,BSc,ML Engineer,Tier-3,Retail,4,81000
+12,34,Male,BSc,ML Engineer,Tier-3,Healthcare,3,107000
+10,33,Female,BSc,Junior Analyst,Tier-1,Finance,3,98000
+4,29,Female,MSc,Data Scientist,,Tech,4,84000
+1,21,Female,MSc,Data Analyst,Tier-3,Retail,1,35000
+1,25,Female,BSc,Junior Analyst,Tier-1,Tech,3,59000
+17,38,Male,BSc,ML Engineer,Tier-2,Tech,4,130000
+14,39,Female,PhD,Senior Data Engineer,Tier-1,Retail,1,165000
+12,31,Male,BSc,Junior Analyst,Tier-1,Retail,4,94000
+18,42,Other,BSc,Data Analyst,Tier-2,Healthcare,2,116000
+9,31,Male,PhD,Data Scientist,Tier-3,Finance,4,115000
+0,21,Female,BSc,Junior Analyst,Tier-1,Finance,0,41000
+20,40,Female,BSc,Data Scientist,Tier-3,Retail,3,141000
+20,40,Male,BSc,Data Scientist,Tier-3,Tech,3,145000
+2,22,Male,BSc,Lead Data Scientist,Tier-1,Tech,2,84000
+13,33,Female,BSc,Senior Data Engineer,Tier-1,Finance,2,148000
+17,42,Female,MSc,ML Engineer,Tier-3,Retail,1,125000
+15,35,Female,BSc,ML Engineer,Tier-1,Tech,3,127000
+3,27,Male,BSc,Junior Analyst,Tier-3,Retail,5,41000
+7,30,Other,MSc,ML Engineer,Tier-3,Tech,5,99000
+16,38,Male,MSc,Lead Data Scientist,Tier-3,Retail,3,143000
+11,30,,MSc,Junior Analyst,Tier-1,Healthcare,3,111000
+9,28,Other,BSc,Lead Data Scientist,Tier-3,Finance,0,107000
+7,32,Male,BSc,Junior Analyst,Tier-2,Healthcare,1,67000
+18,39,Male,MSc,Data Scientist,Tier-1,Retail,2,158000
+11,32,Female,MSc,Data Analyst,Tier-3,Retail,2,92000
+7,30,Male,MSc,Junior Analyst,Tier-2,Retail,0,71000
+1,26,Female,MSc,Junior Analyst,Tier-1,Healthcare,3,68000
+8,33,Male,BSc,Data Analyst,Tier-2,Retail,1,70000
+2,26,Female,BSc,Senior Data Engineer,Tier-3,Healthcare,3,66000
+1,21,Female,BSc,Junior Analyst,Tier-3,Healthcare,4,42000
+,23,Male,PhD,Data Analyst,Tier-1,Healthcare,2,71000
+1,24,Other,BSc,Data Scientist,Tier-2,Healthcare,0,54000
+0,21,Male,PhD,Data Analyst,Tier-1,Retail,3,63000
+3,28,Male,BSc,Data Analyst,Tier-2,Retail,0,43000
+,30,Female,BSc,Data Analyst,Tier-1,Finance,4,97000
+0,25,Other,BSc,Data Scientist,Tier-2,Tech,2,50000
+14,36,Male,BSc,Senior Data Engineer,Tier-3,Retail,2,119000
+10,32,Male,MSc,ML Engineer,Tier-1,Tech,1,128000
+16,38,Male,BSc,Data Scientist,Tier-1,Finance,1,143000
+7,28,Female,BSc,Junior Analyst,Tier-2,Tech,2,69000
+3,28,Female,BSc,Data Scientist,Tier-2,Finance,1,53000
+20,42,Male,BSc,Junior Analyst,Tier-3,Healthcare,5,134000
+13,38,Male,MSc,Lead Data Scientist,Tier-1,Finance,5,161000
+9,29,Male,MSc,ML Engineer,Tier-3,Tech,5,101000
+14,36,Other,PhD,Senior Data Engineer,Tier-2,Healthcare,3,151000
+0,24,Female,MSc,Senior Data Engineer,Tier-2,Retail,5,81000
+10,35,Female,BSc,Lead Data Scientist,Tier-2,Retail,5,116000
+6,29,Male,BSc,ML Engineer,Tier-3,Tech,5,89000
+15,40,Female,BSc,Junior Analyst,Tier-2,Tech,5,114000
+10,31,Female,BSc,Data Scientist,Tier-1,Tech,1,107000
+4,29,Other,MSc,ML Engineer,Tier-1,Finance,1,85000
+0,24,Male,BSc,,Tier-2,Finance,1,35000
+20,43,Female,BSc,Data Analyst,Tier-3,Tech,5,129000
+7,26,Male,PhD,ML Engineer,Tier-1,Retail,3,112000
+13,32,Other,BSc,Senior Data Engineer,Tier-2,Finance,5,140000
+6,27,Male,PhD,ML Engineer,Tier-1,Finance,5,126000
+11,32,Male,MSc,Data Scientist,Tier-3,Retail,3,94000
+17,42,Male,MSc,Data Analyst,Tier-1,Healthcare,2,138000
+11,32,Male,BSc,ML Engineer,Tier-3,Tech,5,104000
+6,28,Female,MSc,Junior Analyst,Tier-1,Finance,3,90000
+16,41,Male,MSc,Data Scientist,Tier-2,Tech,3,150000
+3,27,Other,BSc,Data Scientist,Tier-3,Finance,1,58000
+19,42,Male,BSc,Data Scientist,Tier-1,Finance,0,161000
+2,25,Male,MSc,Lead Data Scientist,Tier-1,Retail,1,88000
+11,36,Female,BSc,Data Scientist,Tier-1,Healthcare,1,113000
+1,21,Female,MSc,Junior Analyst,Tier-2,Retail,4,50000
+1,23,Female,PhD,ML Engineer,Tier-1,Finance,4,91000
+18,40,Male,BSc,Data Scientist,Tier-2,Retail,0,129000
+4,27,Male,MSc,Senior Data Engineer,Tier-1,Retail,2,93000
+3,24,Female,MSc,Lead Data Scientist,Tier-2,,0,91000
+2,23,Male,PhD,Senior Data Engineer,Tier-2,Finance,0,89000
+13,36,Female,BSc,Lead Data Scientist,Tier-1,Tech,1,144000
+3,26,Female,MSc,ML Engineer,Tier-2,Retail,1,72000
+13,36,Male,MSc,Lead Data Scientist,Tier-1,Healthcare,0,150000
+4,28,Female,MSc,Lead Data Scientist,Tier-1,Tech,1,96000
+20,41,Female,BSc,Data Scientist,Tier-2,Tech,1,147000
+7,27,Female,BSc,Data Analyst,Tier-2,Tech,2,71000
+3,25,Other,BSc,Senior Data Engineer,Tier-1,Finance,0,92000
+18,37,Female,BSc,Data Scientist,Tier-2,Retail,5,135000
+12,34,Male,MSc,Junior Analyst,Tier-1,Healthcare,3,119000
+7,27,Male,MSc,Lead Data Scientist,Tier-2,Healthcare,0,102000
+0,22,Female,BSc,ML Engineer,Tier-3,Healthcare,4,51000
+16,38,Female,BSc,Junior Analyst,Tier-1,Tech,2,128000
+16,35,Other,MSc,ML Engineer,Tier-3,Finance,5,147000
+19,41,Male,PhD,Junior Analyst,Tier-2,Healthcare,1,147000
+4,28,Male,BSc,Data Scientist,Tier-2,Healthcare,0,63000
+0,21,Male,BSc,Lead Data Scientist,Tier-1,Finance,0,70000
+5,25,Female,BSc,Junior Analyst,Tier-1,Retail,3,66000
+13,38,Female,BSc,Data Analyst,Tier-1,Finance,2,113000
+10,31,,BSc,Lead Data Scientist,Tier-1,Healthcare,0,123000
+1,21,Female,BSc,Senior Data Engineer,Tier-3,Finance,1,70000
+14,36,Male,MSc,Data Scientist,Tier-1,Retail,,136000
+0,24,Other,BSc,ML Engineer,Tier-3,Finance,1,46000
+9,34,Male,MSc,Senior Data Engineer,Tier-2,Retail,3,124000
+7,30,Female,BSc,ML Engineer,Tier-3,Tech,2,70000
+16,39,Male,BSc,Data Analyst,Tier-1,Finance,5,134000
+0,21,Male,MSc,Lead Data Scientist,Tier-1,Tech,3,88000
+7,27,Other,PhD,Junior Analyst,Tier-2,Finance,,99000
+5,28,Female,BSc,Lead Data Scientist,Tier-2,,2,91000
+4,26,Male,BSc,Data Scientist,Tier-3,Tech,5,65000
+6,29,Male,BSc,ML Engineer,Tier-1,Healthcare,0,83000
+11,36,Female,MSc,Data Scientist,Tier-2,Healthcare,0,99000
+10,30,Other,BSc,Junior Analyst,Tier-3,Healthcare,0,80000
+3,27,Female,PhD,Senior Data Engineer,Tier-1,Retail,1,103000
+12,33,Female,BSc,Senior Data Engineer,Tier-1,Healthcare,2,135000
+13,34,Female,BSc,ML Engineer,Tier-2,Retail,3,114000
+4,25,Male,BSc,Data Analyst,Tier-1,Retail,1,61000
+20,44,Female,BSc,Data Scientist,Tier-2,Tech,3,154000
+16,37,Male,MSc,Data Scientist,Tier-1,Tech,3,155000
+17,38,Other,MSc,Junior Analyst,Tier-2,Retail,1,117000
+16,40,Male,BSc,Data Scientist,Tier-1,Healthcare,3,142000
+3,25,Female,MSc,Junior Analyst,Tier-1,Retail,5,74000
+13,37,Male,MSc,Junior Analyst,Tier-2,Finance,0,97000
+6,31,Other,BSc,Junior Analyst,Tier-3,Retail,3,59000
+11,32,Female,BSc,Data Analyst,Tier-2,Tech,0,79000
+20,42,Female,PhD,Lead Data Scientist,Tier-3,Finance,4,187000
+17,40,Male,PhD,Junior Analyst,Tier-3,Tech,0,130000
+16,35,Male,BSc,Lead Data Scientist,Tier-1,Finance,1,151000
+16,36,Male,BSc,Senior Data Engineer,Tier-2,Tech,4,149000
+17,42,Female,MSc,Data Analyst,Tier-1,Tech,0,137000
+,41,Other,BSc,Senior Data Engineer,Tier-2,Healthcare,0,163000
+1,21,Male,BSc,Lead Data Scientist,Tier-1,Tech,2,76000
+20,42,Male,BSc,Data Scientist,Tier-2,Finance,2,152000
+10,31,Female,BSc,Data Analyst,Tier-3,Finance,1,73000
+0,21,Female,BSc,Data Scientist,Tier-2,Finance,2,52000
+2,26,Female,BSc,Junior Analyst,Tier-3,Tech,0,40000
+20,43,Male,BSc,ML Engineer,Tier-1,Tech,3,166000
+20,42,Female,BSc,Lead Data Scientist,Tier-3,Retail,2,152000
+20,45,Male,PhD,Data Scientist,Tier-2,Retail,3,177000
+4,29,Female,BSc,Data Scientist,Tier-1,Retail,2,70000
+10,34,Other,BSc,Junior Analyst,Tier-2,Finance,4,91000
+20,45,Female,BSc,Junior Analyst,Tier-2,Healthcare,3,145000
+7,27,Male,PhD,Data Scientist,Tier-1,Tech,0,111000
+13,35,Female,BSc,Senior Data Engineer,Tier-1,Healthcare,1,139000
+15,37,Female,MSc,Data Analyst,Tier-1,Finance,5,138000
+15,37,Male,BSc,Data Analyst,Tier-1,Finance,4,125000
+8,27,Male,BSc,Senior Data Engineer,Tier-3,Retail,3,90000
+18,42,Female,BSc,Junior Analyst,Tier-1,Healthcare,1,131000
+5,24,Male,BSc,Senior Data Engineer,Tier-1,Healthcare,2,95000
+7,27,Male,MSc,Lead Data Scientist,Tier-2,Tech,2,112000
+6,25,Female,BSc,Lead Data Scientist,Tier-2,Healthcare,4,87000
+8,28,Other,MSc,Lead Data Scientist,Tier-3,Healthcare,1,110000
+14,38,Male,BSc,Junior Analyst,Tier-1,Finance,4,120000
+14,33,Male,BSc,Data Scientist,Tier-2,Healthcare,5,126000
+13,37,Male,PhD,Junior Analyst,Tier-3,Retail,4,114000
+5,25,Male,BSc,Data Analyst,Tier-3,Tech,2,55000
+10,31,Female,MSc,Lead Data Scientist,Tier-1,Retail,5,137000
+15,35,Male,BSc,Data Scientist,Tier-1,Tech,3,140000
+9,34,Male,BSc,Junior Analyst,Tier-1,Retail,2,93000
+1,21,Male,MSc,Data Scientist,Tier-1,Healthcare,2,60000
+10,33,Female,MSc,Senior Data Engineer,Tier-2,Healthcare,0,115000
+16,35,Male,BSc,Senior Data Engineer,Tier-1,Finance,0,161000
+2,22,Male,BSc,Lead Data Scientist,Tier-1,Tech,2,84000
+9,33,Male,BSc,Data Scientist,Tier-2,Retail,1,94000
+1,26,Female,MSc,Junior Analyst,Tier-1,Healthcare,3,68000
+1,21,Male,BSc,Data Analyst,Tier-1,Tech,2,50000
+11,33,Female,BSc,Data Scientist,Tier-2,Tech,0,104000
+10,35,Female,BSc,Lead Data Scientist,Tier-2,Retail,5,116000
+1,21,Female,BSc,Junior Analyst,Tier-3,Healthcare,4,42000
+10,29,Female,BSc,Data Analyst,Tier-3,Healthcare,1,82000
+6,29,Female,BSc,Data Scientist,Tier-2,Retail,3,81000
+10,30,Other,BSc,Junior Analyst,Tier-3,Healthcare,0,80000
+,40,Male,BSc,Junior Analyst,Tier-1,Finance,3,153000
+12,37,Female,BSc,Junior Analyst,Tier-1,Finance,4,112000
+11,32,Male,BSc,ML Engineer,Tier-3,Tech,5,104000
+0,24,Female,MSc,Lead Data Scientist,Tier-3,Finance,4,78000
+18,39,Male,MSc,Data Scientist,Tier-1,Retail,2,158000
+3,28,Female,BSc,Data Scientist,Tier-2,Finance,1,53000
+15,35,Male,BSc,Data Scientist,Tier-1,Tech,3,140000
+2,22,Male,BSc,Senior Data Engineer,Tier-2,Retail,2,72000
+0,21,Male,BSc,Junior Analyst,Tier-2,Tech,5,40000
+16,41,Male,MSc,Data Scientist,Tier-2,Tech,3,150000
